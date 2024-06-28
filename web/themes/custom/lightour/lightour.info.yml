@@ -1,0 +1,19 @@
+name: Lightour Theme
+type: theme
+description: "A light & practical theme for tourism websites."
+core_version_requirement: ^9 || ^10
+base theme: stable9
+screenshot: lightourscreenshot.png
+
+regions: 
+ header: Header
+ lightourmenu: Navigation 
+ content: Content
+ footer: Footer
+ page_top: Page top
+ page_bottom: Page bottom
+  
+libraries: 
+ - lightour/global-css
+ - lightour/pacifico
+  
